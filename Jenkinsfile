@@ -12,11 +12,11 @@ pipeline {
             //
             echo "Always execute"
         }
-        success {
-            echo "Yo~ Success"
-        }
-        failure {
-            echo "Failed!!!"
-        }
+        // success {
+        //     echo "Yo~ Success"
+        // }
+        // failure {
+        //     echo "Failed!!!"
+        // }
     }
 }
